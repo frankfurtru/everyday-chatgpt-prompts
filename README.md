@@ -1,19 +1,3 @@
-<p align="center">
-<img width="395" alt="prompts.chat" src="https://github.com/user-attachments/assets/e0d0e32d-d2ce-4459-9f37-e951d9f4f5de" />
-</p>
-
-<h3 align="center">Sponsors</h3>
-
-<div align="center">
-
-  <a href="https://clemta.com" align="center" target="_blank">
-    <img height="50" alt="Clemta logo" src="https://clemta.com/wp-content/uploads/2023/03/logo-clemta-com-1.png.webp">
-  </a>
-  <br>
-  <sub>With Clemta, you can run your company from the comfort of your home.</sub>
-<hr>
-
-</div>
 
 ---
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
